@@ -3,7 +3,7 @@ AMUIReact = require "amazeui-react"
 AMHeader = AMUIReact.Header
 
 props = {
-  "title": "心灵氧吧",
+  "title": "React App",
   "link": "/",
   data: {
     "left": [
